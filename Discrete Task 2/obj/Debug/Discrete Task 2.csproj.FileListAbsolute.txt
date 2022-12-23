@@ -1,0 +1,8 @@
+C:\Users\elmostafa\source\repos\Discrete Task 2\Discrete Task 2\obj\Debug\Discrete Task 2.csproj.AssemblyReference.cache
+C:\Users\elmostafa\source\repos\Discrete Task 2\Discrete Task 2\obj\Debug\Discrete Task 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmostafa\source\repos\Discrete Task 2\Discrete Task 2\obj\Debug\Discrete Task 2.csproj.CoreCompileInputs.cache
+C:\Users\elmostafa\source\repos\Discrete Task 2\Discrete Task 2\bin\Debug\Discrete Task 2.exe.config
+C:\Users\elmostafa\source\repos\Discrete Task 2\Discrete Task 2\bin\Debug\Discrete Task 2.exe
+C:\Users\elmostafa\source\repos\Discrete Task 2\Discrete Task 2\bin\Debug\Discrete Task 2.pdb
+C:\Users\elmostafa\source\repos\Discrete Task 2\Discrete Task 2\obj\Debug\Discrete Task 2.exe
+C:\Users\elmostafa\source\repos\Discrete Task 2\Discrete Task 2\obj\Debug\Discrete Task 2.pdb
